@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Marinara",
+    "ingredients": [
+      "San Marzano tomato sauce",
+      "garlic",
+      "oregano",
+      "olive oil", 
+      "tomato"
+    ],
+    "image": "./images/marinara.PNG",
+    "price": 3200,
+    "allergens": [1, 3, 9]
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Feast",
+    "ingredients": ["double pepperoni", "extra mozzarella cheese"],
+    "image": "./images/pepperoni.PNG",
+    "price": 2900,
+    "allergens": [1, 7]
+  },
+  { 
+    "id": 3,
+    "name": "Hawaiian",
+    "ingredients": ["ham", "pineapple"],
+    "image": "./images/hawaiian.PNG",
+    "price": 2500,
+    "allergens": [3, 5, 8]
+  },
+  {
+    "id": 4,
+    "name": "Meat Feast",
+    "ingredients": ["spicy pork", "ham", "pepperoni", "seasoned minced beef", "corn"],
+    "image": "./images/meat-feast.PNG",
+    "price": 4000,
+    "allergens": [2, 9, 4]
+  },
+  {
+    "id": 5,
+    "name": "Vegetable Supreme",
+    "ingredients": ["mushrooms", "mixed peppers", "red onions", "tomato"],
+    "image": "./images/vegetable.PNG",
+    "price": 2500,
+    "allergens": [5, 6, 7]
+  },
+  {
+    "id": 6,
+    "name": "Beyond Three Meat No Cheese",
+    "ingredients": [
+      "meat-free beyond meat italian style sausage",
+      "pork crumble",
+      " beef crumble",
+      "mushrooms",
+      "red onions"
+    ],
+    "image": "./images/beyond.PNG",
+    "price": 4300,
+    "allergens": [3, 4, 8, 9]
+  },
+  {
+    "id": 7,
+    "name": "Chicken Sizzler",
+    "ingredients": [
+      "green chillies",
+      "jalapeños",
+      "red onions",
+      "roquito peppers",
+      "chicken"
+    ],
+    "image": "./images/chicken-sizzler.PNG",
+    "price": 3400,
+    "allergens": [1, 2, 5, 7, 9]
+  }
+]
